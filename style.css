@@ -1,5 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
 .about-bg-img{
     background-image: url('./images/about.jpg');
     background-position: center;
     background-attachment: fixed;
+}
+.home-bg-img{
+    background-image: url('./images/rest\ home.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.event-bgimg{
+    background-image: url('./images/events\ bg.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    
 }
